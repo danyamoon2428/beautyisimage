@@ -1,0 +1,42 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Documento sin título</title>
+<!-- TemplateEndEditable -->
+<link href="../estilos.css" rel="stylesheet" type="text/css" />
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+
+<div class="container">
+  <div class="header"><!-- end .header -->
+    <h1>&nbsp;</h1>
+  </div>
+  <!-- TemplateBeginEditable name="vinculos" -->
+  <div class="sidebar1">
+    <ul class="nav">
+      <li><a href="../index.html">Inicio</a></li>
+      <li><a href="../galeria.html">Galería</a></li>
+      <li><a href="../servicios.html">Servicios</a></li>
+      <li><a href="../contacto.html">Contacto</a>
+        <!-- end .sidebar1 -->
+      </li>
+    </ul>
+  </div>
+  <!-- TemplateEndEditable -->
+  <div class="content">
+    <p>&nbsp;</p>
+    <h2><!-- TemplateBeginEditable name="titulo" -->Titulo<!-- TemplateEndEditable --></h2>
+    <!-- TemplateBeginEditable name="contenido" -->
+    <p>Contenido</p>
+    <!-- TemplateEndEditable --><!-- end .content --></div>
+  <div class="footer">
+    <p>La imagen de Logo pertenece a http://www.freepik.com&quot;&gt;Designed by Freepik</p>
+    <!-- end .footer --></div>
+  <!-- end .container --></div>
+</body>
+</html>
